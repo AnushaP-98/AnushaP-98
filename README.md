@@ -1,9 +1,9 @@
 # Hi, I'm Anusha Pala 👋
 
-🎯 Aspiring Data Analyst & ML Enthusiast  
-📊 Skilled in SQL, Python, Power BI, Excel  
-🧠 Interested in Feature Engineering & Clustering  
-📈 Passionate about turning data into actionable insights  
+🎯 Data Analyst | SQL | Python | Machine Learning
+📊 SQL | Python | Power BI | Tableau | Excel
+🧠 Interested in Feature Engineering, Predictive Modeling & Data Analytics
+📈 Passionate about turning data into actionable insights
 
 ## 🔥 Featured Projects
 📊 Pizza Sales SQL Analysis
